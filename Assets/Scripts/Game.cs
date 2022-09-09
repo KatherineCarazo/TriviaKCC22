@@ -64,6 +64,9 @@ public class Game : MonoBehaviour
 
     public void evaluarPregunta(int respuestaJugador)
     {
+        Debug.Log(preguntaActual.enunciado);
+        Debug.Log(respuestaJugador);
+        Debug.Log(preguntaActual.respuestaCorrecta);
         if (respuestaJugador == preguntaActual.respuestaCorrecta)
         {
             nivelPregunta++;

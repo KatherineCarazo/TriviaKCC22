@@ -3,55 +3,55 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "Cúanto es 12 + 15?",
+        "enunciado": "¿Cuál es la flor nacional de Japón?",
         "respuestas": [
-          { "texto": "25" },
-          { "texto": "29" },
-          { "texto": "27" },
-          { "texto": "22" }
+          { "texto": "Flor de Loto" },
+          { "texto": "Flor Pálida" },
+          { "texto": "Flor de Cerezo" },
+          { "texto": "Flor Tulipán" }
         ],
-        "rightAnswer": 27 
+        "respuestaCorrecta": 2
         
       },
       {
-        "enunciado": "enunciado se2",
+        "enunciado": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Estados Unidos" },
+          { "texto": "Suecia" },
+          { "texto": "China" },
+          { "texto": "Brasil" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado se4",
+        "enunciado": "¿Cuál es el idioma que tiene más palabras (según su diccionario)?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Español" },
+          { "texto": "Inglés" },
+          { "texto": "Koreano" },
+          { "texto": "Francés" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado se5",
+        "enunciado": "¿Cuál fue el primer largometraje de Pixar?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Moana" },
+          { "texto": "Toy Story" },
+          { "texto": "Tarzán" },
+          { "texto": "Pinocho" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado 1",
+        "enunciado": "¿Cómo se llama la icónica cafetería de Friends?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Coffee Babe" },
+          { "texto": "Central Park" },
+          { "texto": "Coffee Break" },
+          { "texto": "Central Perk" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 3
       }
     ]
   },
@@ -59,109 +59,100 @@
     "nombreDificultad": "Easy",
     "preguntas": [
       {
-        "enunciado": "enunciado e1",
+        "enunciado": "¿En qué año se fundó Netflix:?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1997" },
+          { "texto": "2001" },
+          { "texto": "2009" },
+          { "texto": "2015" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado e2",
+        "enunciado": "¿Cuál fue la serie más vista en Netflix en el 2019?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Modern Family" },
+          { "texto": "Stranger Things" },
+          { "texto": "How I Met Your Mother" },
+          { "texto": "Friends" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado e3",
+        "enunciado": "¿Cuál fue la primer película de Disney?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Blanca Nieves" },
+          { "texto": "Toy Story" },
+          { "texto": "Bella y la Bestia" },
+          { "texto": "Bambi" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado e4",
+        "enunciado": "¿Quién es el autor de la frase -Pienso, luego existo-?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Platón" },
+          { "texto": "Sócrates" },
+          { "texto": "Descartes" },
+          { "texto": "Francis Bacon" }
         ],
-        "rightAnswer": 0
-      },
-      {
-        "enunciado": "enunciado e5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 2
       }
+      
     ]
   },
   {
     "nombreDificultad": "Medium",
     "preguntas": [
       {
-        "enunciado": "enunciado m1",
+        "enunciado": "¿De qué ciudad son originarios los Beatles?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Londres" },
+          { "texto": "Mánchester" },
+          { "texto": "Oxford" },
+          { "texto": "Liverpool" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado m2",
+        "enunciado": "¿Cuántas teclas tiene un piano?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "80" },
+          { "texto": "88" },
+          { "texto": "90" },
+          { "texto": "98" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado m3",
+        "enunciado": "¿Cuántos litros de sangre tiene una persona adulta?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Entre 2 y 4L" },
+          { "texto": "Entre 4 y 6L" },
+          { "texto": "10L" },
+          { "texto": "0,5L" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado m4",
+        "enunciado": "¿Cuál es el libro más vendido en el mundo después de la Biblia?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "El Señor de los Anillos" },
+          { "texto": "Don Quijote de la Mancha" },
+          { "texto": "Cien años de Soledad" },
+          { "texto": "La Odisea" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado m5",
+        "enunciado": "La sal común está formada por dos elementos, ¿cuáles son?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Sodio y potasio" },
+          { "texto": "Sodio y cloro" },
+          { "texto": "Sodio y carbono" },
+          { "texto": "Potasio y cloro" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       }
     ]
   },
@@ -169,54 +160,54 @@
     "nombreDificultad": "Hard",
     "preguntas": [
       {
-        "enunciado": "enunciado h1",
+        "enunciado": "¿Cuántos jugadores por equipo participan en un partido de voleibol?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "2" },
+          { "texto": "4" },
+          { "texto": "6" },
+          { "texto": "12" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado h2",
+        "enunciado": "¿Cuál es el país más grande y el más pequeño del mundo?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Canadá y Mónaco" },
+          { "texto": "China y Nauru" },
+          { "texto": "Estados Unidos y Malta" },
+          { "texto": "Rusia y Vaticano" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado h3",
+        "enunciado": "¿Quién pintó la obra -Guernica-?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Pablo Picasso" },
+          { "texto": "Diego Rivera" },
+          { "texto": "Salvador Dalí" },
+          { "texto": "Frida Kahlo" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado h4",
+        "enunciado": "¿Cuánto tiempo tarda la luz del Sol en llegar a la Tierra?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "12 minutos" },
+          { "texto": "1 día" },
+          { "texto": "12 horas" },
+          { "texto": "8 minutos" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado h5",
+        "enunciado": "Cuál es la altura de la red de voleibol en los juegos masculino y femenino?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "1,8 m y 1,5 m" },
+          { "texto": "2,43 m y 2,24 m" },
+          { "texto": "2,45 m y 2,15 m" },
+          { "texto": "2,5 m y 2,0 m" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       }
     ]
   },
@@ -224,54 +215,54 @@
     "nombreDificultad": "Extra Hard",
     "preguntas": [
       {
-        "enunciado": "enunciado eh1",
+        "enunciado": "¿En qué periodo de la prehistoria fue descubierto el fuego?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Neolítico" },
+          { "texto": "Paleolítico" },
+          { "texto": "Edad media" },
+          { "texto": "Edad de piedra" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado eh2",
+        "enunciado": "¿Cuál es la montaña más alta del continente americano?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Monte Everest" },
+          { "texto": "Pico Neblina" },
+          { "texto": "Aconcagua" },
+          { "texto": "Monte Fuji" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado eh3",
+        "enunciado": "¿Cuál es la velocidad de la luz?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "150 000 000 metros por segundo" },
+          { "texto": "199 792 458 metros por segundo" },
+          { "texto": "300 000 000 metros por segundo" },
+          { "texto": "299 792 458 metros por segundo" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado eh4",
+        "enunciado": " ¿En qué país de África el español es la lengua oficial?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Guinea ecuatorial" },
+          { "texto": "Costa de Marfil" },
+          { "texto": "Cabo Verde" },
+          { "texto": "Liberia" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado eh5",
+        "enunciado": "¿Cuál de estos países se extiende entre dos continentes?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Tanzania" },
+          { "texto": "Rusia" },
+          { "texto": "Egipto" },
+          { "texto": "Filipinas" }
         ],
-        "rightAnswer": 0
+        "respuestaCorrecta": 1
       }
     ]
   }
